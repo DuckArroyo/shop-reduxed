@@ -1,15 +1,13 @@
-## Dev Notes
+# Dev Notes
 
-- dependencies installed
-  - MAC - DONE
-  - PC - not yet.
+https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
 
-Project has been seeded
+## TO DOs
 
-## Project works.
+- Install dependencies
 
-... now lets break it.
+- Seed Project
 
-## Full setup for Global State is within 22.1.3 and 22.1.5
-
-# Continue on 22.3.3
+- Deploy to Heroku branch
+  - git push origin heroku
+- Deploy Database
